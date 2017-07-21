@@ -108,5 +108,8 @@ namespace App1
         {
 
         }
+
+        private void test2() { }
     }
 }
+
